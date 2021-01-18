@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0147207-01f4-46f6-8fec-93519e17a57b" name="Default Changelist" comment="" />
+    <list default="true" id="a0147207-01f4-46f6-8fec-93519e17a57b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/hello_user.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/login_extension.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/update-article.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +33,11 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1nEsqhPD2R3Wic1KIzYHrepIrhv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,17 +61,29 @@
       <option name="presentableId" value="Default" />
       <updated>1610966776630</updated>
       <workItem from="1610966777670" duration="3582000" />
+      <workItem from="1610972180732" duration="2460000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="783" y="442" key="NewPhpFileDialog" timestamp="1610970903302">
+    <state x="783" y="442" key="NewPhpFileDialog" timestamp="1610981646185">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state x="783" y="442" key="NewPhpFileDialog/0.23.1920.977@0.23.1920.977" timestamp="1610970903302" />
+    <state x="783" y="442" key="NewPhpFileDialog/0.23.1920.977@0.23.1920.977" timestamp="1610981646185" />
     <state x="1077" y="238" width="670" height="676" key="search.everywhere.popup" timestamp="1610971864391">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
