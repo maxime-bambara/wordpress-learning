@@ -20,9 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0147207-01f4-46f6-8fec-93519e17a57b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/hello_user.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/login_extension.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/plugins/update-article.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/add_author_to_title.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/post_recipe.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/prefix_article.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/register_form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/remove_filter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/welcome_user.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1610966776630</updated>
       <workItem from="1610966777670" duration="3582000" />
-      <workItem from="1610972180732" duration="2460000" />
+      <workItem from="1610972180732" duration="7689000" />
     </task>
     <servers />
   </component>
@@ -80,10 +83,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="783" y="442" key="NewPhpFileDialog" timestamp="1610981646185">
+    <state x="783" y="442" key="NewPhpFileDialog" timestamp="1611050849201">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state x="783" y="442" key="NewPhpFileDialog/0.23.1920.977@0.23.1920.977" timestamp="1610981646185" />
+    <state x="783" y="442" key="NewPhpFileDialog/0.23.1920.977@0.23.1920.977" timestamp="1611050849201" />
     <state x="1077" y="238" width="670" height="676" key="search.everywhere.popup" timestamp="1610971864391">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
